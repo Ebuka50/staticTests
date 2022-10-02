@@ -1,0 +1,2 @@
+# staticTests
+static tests
